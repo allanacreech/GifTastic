@@ -1,6 +1,20 @@
-@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);
-
+/*@import url(http://fonts.googleapis.com/css?family=Droid+Sans:400,700);*/
+/*font-family: 'Shadows Into Light', cursive;*/
+/*font-family: 'Gloria Hallelujah', cursive;*/
 
 body{
 	background-color: pink;
+}
+
+h1{
+	font-family: 'Shadows Into Light', cursive;
+}
+
+p{
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+.giphyDiv{
+	float: left;
+	margin: 5px;
 }

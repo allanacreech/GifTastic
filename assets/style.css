@@ -10,3 +10,7 @@ body{
 	text-align: center;
 	opacity: 50%;
 }
+
+button, div, form, input{
+	margin:10px;
+}
