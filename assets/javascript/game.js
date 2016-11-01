@@ -54,8 +54,9 @@ function getImageData (){
 			// giphyDiv.add("gifs")
 			$('#giphyView').append(giphyDiv);
 		}
-		$('img').on('click', toggleStill);
+		
 		}
+		$('img').on('click', toggleStill);
 	});
 
 //this is the onclick function for buttons
